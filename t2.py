@@ -3,7 +3,7 @@ from turtle import *
 
 speed('slow')
 distance=100
-side=6
+side=5
 fillcolor('cyan')   
 begin_fill()
 
