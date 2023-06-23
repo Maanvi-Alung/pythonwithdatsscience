@@ -2,7 +2,7 @@
 
 from turtle import *
 
-speed('fast')
+speed('slow')
 side=10
 for i in range(side):
     pencolor('red')

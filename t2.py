@@ -2,14 +2,13 @@
 from turtle import *
 
 speed('slow')
-distance=100
-side=5
+side=6
 fillcolor('cyan')   
 begin_fill()
 
 for i in range(side):
     pencolor('red')
-    fd(distance)
+    fd(100)
     rt(120)
     bk(100)
     lt(60)
