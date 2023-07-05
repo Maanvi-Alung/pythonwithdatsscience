@@ -1,10 +1,12 @@
 numpy
 matplotlib
 plotly
-pands
+nbformat
+pandas
 pillow
 streamlit
 flask
 pyqt6
 dputils
 opencv-contrib-python
+openpyxl
