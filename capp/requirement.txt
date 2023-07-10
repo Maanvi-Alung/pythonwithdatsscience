@@ -1,0 +1,4 @@
+pyqt5
+opencv-contrib-python
+pillow
+pyQt5Designer
